@@ -1,7 +1,5 @@
 # Mall Customer Segmentation
 
-# Bank Marketing Campaign Classification
-
 Tugas 7 Digital Talent Incubator - Telkom
 
 Nama: Gigas Taufan Arvyanto (DS0210)
